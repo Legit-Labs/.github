@@ -1,6 +1,6 @@
 [![Legit Labs — open source from Legit Security](https://raw.githubusercontent.com/Legit-Labs/.github/main/profile/assets/legit-labs-banner.png)](https://www.legitsecurity.com/)
 
-**Legit Labs** is the open-source home of [Legit Security](https://www.legitsecurity.com/) — the AI-native ASPM platform that detects, fixes and prevents AppSec risk from AI-generated code, secrets and critical vulnerabilities, from code to cloud.
+**Legit Labs** is the open-source home of [Legit Security](https://www.legitsecurity.com/) — the AI-native ASPM platform that detects, fixes and prevents AppSec risk from AI-generated code, secrets and critical vulnerabilities, from prompt to cloud.
 
 Here we build in the open:
 

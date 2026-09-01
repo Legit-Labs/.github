@@ -1,3 +1,5 @@
-[![image](https://user-images.githubusercontent.com/72736154/171011540-6aa945ba-39f3-4190-afa9-9edeebc4b980.png)](https://www.legitsecurity.com/)
+[![Legit Labs — open source from Legit Security](https://raw.githubusercontent.com/Legit-Labs/.github/main/profile/assets/legit-labs-banner.png)](https://www.legitsecurity.com/)
 
-Securing software supply chains, CI/CD pipelines and development infrastructure. Help organizations manage a secure SDLC, remove risk from the dev infra itself, deliver and consume software with trust.
+**Legit Labs** is the open-source home of [Legit Security](https://www.legitsecurity.com/) — the Agentic AppSec Platform that secures coding agents, prevents and fixes vulnerabilities, from prompt to cloud.
+
+[Website](https://www.legitsecurity.com/) · [Blog](https://www.legitsecurity.com/blog)
